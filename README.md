@@ -1,16 +1,43 @@
-# React + Vite
+# 🕵️ APIHunter
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Hey! 👋
 
-Currently, two official plugins are available:
+Thanks for checking out **APIHunter**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+APIHunter is a React-based project built to make working with APIs a little easier. The idea was to create a simple interface where you can interact with API data without having to build everything from scratch every time.
 
-## React Compiler
+The project is built with **React + Vite**, with **Axios** handling API requests and **Bootstrap / React Bootstrap** taking care of the UI.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+It's a relatively small project, but it was a great way to get more comfortable with API integration, asynchronous requests, and displaying API responses in a React application.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ What You Can Do
+
+- 🔗 Work with API requests
+- 📡 Fetch data using Axios
+- 📊 Display API responses in the UI
+- ⚛️ Build the interface with React
+- 🎨 Use Bootstrap and React Bootstrap components
+- ⚡ Run everything through a lightweight Vite setup
+
+---
+
+## 🛠️ Built With
+
+- ⚛️ React
+- ⚡ Vite
+- 📡 Axios
+- 🎨 Bootstrap
+- 🧩 React Bootstrap
+- 💻 JavaScript
+
+---
+
+## 📸 Homepage
+
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/1d6e5f7a-f5de-4daf-877e-802a31970095" />
+
+
+```md
+![APIHunter Homepage](./screenshots/homepage.png)
