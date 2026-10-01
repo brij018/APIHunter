@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --bs-body-font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --bs-body-bg: #f8fafc;
+}
+
+body {
+  font-family: var(--bs-body-font-family);
+  background-color: var(--bs-body-bg);
+  color: #1e293b;
+  min-height: 100vh;
+}
+
+.table th {
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  color: #64748b;
+  border-top: none;
+}
+
+.table td {
+  font-size: 0.875rem;
+  vertical-align: middle;
+}
+
+.card {
+  border-color: rgba(226, 232, 240, 0.8) !important;
+}
+
+.form-control {
+  border-color: #cbd5e1;
+  font-size: 0.9rem;
+}
+
+.form-control:focus {
+  border-color: #0f172a;
+  box-shadow: 0 0 0 2px rgba(15, 23, 42, 0.1);
+}
+
+.badge {
+  font-weight: 500;
+}
