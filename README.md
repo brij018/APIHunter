@@ -12,6 +12,8 @@ It's a relatively small project, but it was a great way to get more comfortable 
 
 ---
 
+Here is the link to the API: https://apihunter-api-r8k8.onrender.com/
+
 ## ✨ What You Can Do
 
 - 🔗 Work with API requests
